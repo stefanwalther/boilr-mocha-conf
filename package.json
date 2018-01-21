@@ -1,0 +1,23 @@
+{
+  "name": "boilr-mocha-conf",
+  "version": "0.1.0",
+  "description": "Boilr template for a simple mocha config file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanwalther/boilr-mocha-conf.git"
+  },
+  "keywords": [
+    "boilr",
+    "mocha"
+  ],
+  "author": "Stefan Walther <swr.nixda@gmail.com> (http://qliksite.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanwalther/boilr-mocha-conf/issues"
+  },
+  "homepage": "https://github.com/stefanwalther/boilr-mocha-conf#readme"
+}
